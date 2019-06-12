@@ -20,7 +20,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <body>
 
 <!-- Sidebar with image -->
-<nav class="w3-sidebar w3-hide-medium w3-hide-small" style="width:40%">
+<nav class="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/15170949_1037112999767754_6365224947621400183_n.jpg?_nc_cat=107&_nc_oc=AQlQU9cFL9MOJ96qSxJ2h6kWTfkcab8HxnOcPgprw0E6eAc27K0J63mhSASdeGRb-Q0&_nc_ht=scontent.fbkk10-1.fna&oh=a99e64637e83e5efe7d64800393a3d1f&oe=5D8D02A1" style="width:40%">
   <div class="bgimg"></div>
 </nav>
 
