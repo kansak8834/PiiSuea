@@ -45,8 +45,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- Header -->
   <header class="w3-container w3-center" style="padding:128px 16px" id="home">
-    <h1 class="w3-jumbo"><b>Pii Suea</b></h1>
-    <p>Software Engineer.</p>
+    <h1 class="w3-jumbo"><b>Jane Doe</b></h1>
+    <p>Photographer and Web Designer.</p>
     <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:60%;margin:auto;">
     <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333">
     <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
@@ -56,22 +56,22 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- Portfolio Section -->
   <div class="w3-padding-32 w3-content" id="portfolio">
-    <h2 class="w3-text-grey">My Profile</h2>
+    <h2 class="w3-text-grey">My Portfolio</h2>
     <hr class="w3-opacity">
 
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/38391686_1501851753293874_5301478558101667840_n.jpg?_nc_cat=101&_nc_oc=AQn0UDR09Atw4Ao9ChQ-WQRRP6Fm-QCwb8m8w0E5Es1LfzXE6qWWVWWrUTPbTiKrgEg&_nc_ht=scontent.fbkk10-1.fna&oh=eca1cb3f3bef113e041c1fd539be193e&oe=5D95E854" style="width:100%">
-        <img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/29683496_1388823827930001_7429018774410161004_n.jpg?_nc_cat=104&_nc_oc=AQn2GpaFYqJ6ohDCZoyUfFAjjJKvlEI3eLQV0c4QHEZoDryRTCzKnfs3ATR8UiPEAvI&_nc_ht=scontent.fbkk14-1.fna&oh=0362d9c6bd9fa3ce03c9621f99e94591&oe=5D848006" style="width:100%">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/22045976_1262860170526368_5744250850648148616_n.jpg?_nc_cat=108&_nc_oc=AQnRr7euJOttSB2BLDg5V5gWidlLmechBo5-jZ8xb7B_2EfHRtzoPFgXO1ZtU1gR9iU&_nc_ht=scontent.fbkk10-1.fna&oh=ed791fb76a68300f3c030fe3e0a31de7&oe=5D9DBECE" style="width:100%">
+        <img src="/w3images/wedding.jpg" style="width:100%">
+        <img src="/w3images/rocks.jpg" style="width:100%">
+        <img src="/w3images/sailboat.jpg" style="width:100%">
       </div>
 
       <div class="w3-half">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/17903600_1140156049463448_1729152964385252276_n.jpg?_nc_cat=107&_nc_oc=AQk9PkuSUQ2T4Ew3SdXc222E92UWxNbOSLHmk1VjIBB3SN-DuSTU689ell4YKYEQ6OQ&_nc_ht=scontent.fbkk10-1.fna&oh=61306664284d556ca1d3ccc63daddf08&oe=5D842713" style="width:100%">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/17499139_1131057187040001_2276458537561794315_n.jpg?_nc_cat=111&_nc_oc=AQmKOVavtB2RlbY27IFh98LEC-OpRm0EqK8igmRX1Y7jBnlgl_3njiwRUcaMCgF5UO4&_nc_ht=scontent.fbkk10-1.fna&oh=f97e4c4c2ebd9da2869730c2d4fc1e80&oe=5D91A7D3" style="width:100%">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/23376293_1285682018244183_6354357459808142450_n.jpg?_nc_cat=103&_nc_oc=AQkfobeSFLt4x2SoPKg-hczEqX-SVKLKJ6eiPwumuQAw0SatjNSm2BrNLMst81zlh3g&_nc_ht=scontent.fbkk10-1.fna&oh=b71ba9d05ad25d81428885483afa72e4&oe=5D958E6D" style="width:100%">
-        <img src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/21616252_1256056084540110_8252699429071626389_n.jpg?_nc_cat=109&_nc_oc=AQnI0H1pciZMaG5rNZ-GiuxfH7vZjwSqQNg2EilwtcqJFAg124yZxs8qeNBOo8b_-jA&_nc_ht=scontent.fbkk10-1.fna&oh=89903707052698b7189eb393039b2fcc&oe=5D8E1D91" style="width:100%">
+        <img src="/w3images/underwater.jpg" style="width:100%">
+        <img src="/w3images/chef.jpg" style="width:100%">
+        <img src="/w3images/wedding.jpg" style="width:100%">
+        <img src="/w3images/p6.jpg" style="width:100%">
       </div>
     <!-- End photo grid -->
     </div>
@@ -80,14 +80,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-32" id="about">
-    <h2 History </h2>
+    <h2>About</h2>
     <hr class="w3-opacity">
-    <p>Name : Miss. Kansak Thiangtham
+    <p>Some text about me. Some text about me. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing
+      elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </p>
-	<p>Nickname: Tiger
-	</p>
-	<p>Birthday : 8th  November 1996
-	</p>
     <h3 class="w3-padding-16">My Skills</h3>
     <p class="w3-wide">Photography</p>
     <div class="w3-light-grey">
